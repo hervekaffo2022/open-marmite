@@ -11,7 +11,8 @@
 	</parent>
 	<groupId>com.claim</groupId>
 	<artifactId>spring-mvc</artifactId>
-	<version>0.0.1-RELEASE</version>
+	<version>0.0.2-RELEASE</version>
+	<packaging>war</packaging>
 	<name>spring-mvc</name>
 	<description>Spring Boot Claim</description>
 	<properties>
